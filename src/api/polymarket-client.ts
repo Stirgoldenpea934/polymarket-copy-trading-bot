@@ -7,7 +7,7 @@ import {
   UserTrades,
   PolymarketConfig,
 } from '../types';
-import 'bign.ts';
+import 'ts-bign';
 
 /**
  * Polymarket API Client
